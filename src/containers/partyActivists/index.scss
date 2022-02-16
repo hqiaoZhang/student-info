@@ -1,0 +1,25 @@
+ 
+// 学生信息
+.student_info {
+  .main_container {
+    padding: 16px;
+    .el-row {
+      .el-upload-list__item,
+      .image_item .el-form-item__content,
+      .el-form-item__content {
+        width: 320px;
+      } 
+    }
+  } 
+
+  
+  .el-form-item:not(.footer) {
+    padding: 0;
+    width: 50%;
+    float: left;
+  } 
+    
+}
+
+ 
+ 

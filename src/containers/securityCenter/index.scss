@@ -1,0 +1,25 @@
+ 
+
+ .personal_center {
+   height: calc(100% - 64px);
+   .white_bg {
+     height: 100%;
+   }
+  h4.title {
+    padding-left: 16px;
+  }
+  .el-input__inner {
+    width: 320px;
+  }
+  .el-form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .el-form-item.footer {
+    border: none; 
+  } 
+  .el-form--inline .el-form-item {
+    margin-bottom: 24px;
+  }
+ }
